@@ -1,4 +1,6 @@
 # PawAdopt: Dog Adoption Management System
+<img width="800" height="500" alt="Screenshot 2026-03-30 at 12 38 23 AM" src="https://github.com/user-attachments/assets/05540f3d-b0e0-4302-a487-2caabda13ed7" />
+<img width="800" height="500" alt="Screenshot 2026-03-30 at 12 38 38 AM" src="https://github.com/user-attachments/assets/b2376304-5fdb-40ba-9e67-1f9ab1f74273" />
 
 PawAdopt is a full-stack dog adoption management system built with Angular, Node.js, Express, GraphQL, and MariaDB/MySQL. It supports user registration and login, dog browsing, adoption applications, and an admin workflow for managing dogs and reviewing applications.
 
